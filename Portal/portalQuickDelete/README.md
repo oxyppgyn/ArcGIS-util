@@ -1,1 +1,1 @@
-# ArcGIS Portal Item Quick Delete
+# ArcGIS Portal Quick Item Delete
