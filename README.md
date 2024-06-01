@@ -1,5 +1,5 @@
 # ArcGIS Utilities
-Scripts related to ArcGIS Pro and ArcGIS Portal. mostly using ESRI's [Python API](https://developers.arcgis.com/python/).
+Scripts related to ArcGIS Pro and ArcGIS Portal. mostly using ESRI's [Python API](https://developers.arcgis.com/python/). See [Python-general](https://github.com/oxyppgyn/Python-general) for other (general) Python scripts.
 
 ## List of Scripts:
 ### Portal
